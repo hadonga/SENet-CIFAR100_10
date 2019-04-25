@@ -10,7 +10,7 @@ Reference:
 
 """
 
-from dataset import *
+from cifar100_dataset import *
 from torch.autograd import Variable
 import torch.nn as nn
 import torch.optim as optim
